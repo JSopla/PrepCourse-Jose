@@ -1,2 +1,1 @@
-# PrepCourse-Jose
-Este es un repositorio del modulo2 del prepcourse de Jose
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
